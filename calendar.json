@@ -26,7 +26,7 @@
                     "Yahoo"
                 ],
                 "timeZone": "Europe/Berlin",
-                "timeZoneOffset": "+01:00",
+                "timeZoneOffset": "+02:00",
                 "trigger": "click",
                 "iCalFileName": "Reminder-Event"
             }
